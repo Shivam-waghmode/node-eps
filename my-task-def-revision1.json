@@ -81,7 +81,6 @@
         "operatingSystemFamily": "LINUX"
     },
     "registeredAt": "2026-02-10T04:49:40.686Z",
-    "registeredBy": "arn:aws:iam::829990487212:root",
-    "enableFaultInjection": false,
+    "registeredBy": "arn:aws:iam::829990487212:root"
     "tags": []
 }
